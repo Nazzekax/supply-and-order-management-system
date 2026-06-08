@@ -38,4 +38,4 @@ This project presents a relational database system designed to manage suppliers,
 Developed a fully functional database management system with normalized tables and an interactive application interface.
 
 ## Author
-Nazzerke Supotaeva
+Nazerke Supotaeva
